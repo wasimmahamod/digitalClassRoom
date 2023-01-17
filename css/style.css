@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.clr{
+    clear: both;
+}
+#header_part{
+    background: #FAFBFF;
+    padding: 30px 0px;
+}
+   
+.content h1{
+    border-left: 5px solid #FF0000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.content .spn{
+    color: #FF0000;
+}
+.content p{
+    font-size: 18px;
+}
+.content a{
+    text-decoration: none;
+    background: #FF0000;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    display: inline-block;
+}
+/*************************************** Header part design end  hear*********************************/
+
+/*************************************** About part design start from hear*********************************/
+#about_part{
+
+    padding: 30px 0px;
+}
+.about h1{
+    text-align: center;
+}
+.about .spn{
+    color: #FF0000;
+}
+.about_card{
+    padding: 40px 0px;
+    justify-content: space-between;
+}
+.about_card .cd_1{
+    background: #EDF5F8;
+    border: none;
+}
+.about_card .cd_2{
+    background: #FFF4D6;
+    border: none;
+}
+.about_card .cd_3{
+    background: #EDF5F8;
+    border: none;
+}
+.about_card .card-body h5{
+    font-size: 40px;
+}
+.about_card .card-body h6{
+    font-size: 22px;
+}
+/*************************************** About part design end hear*********************************/
+
+/*************************************** Classroom part design start from hear*********************************/
+#classroom_part{
+
+    padding: 20px 0px;
+}
+.right_content h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.right_content a{
+    text-decoration: none;
+    background: #FF0000;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    display: inline-block;
+}
+/*************************************** Classroom part design end hear*********************************/
+
+/*************************************** student part design start from hear*********************************/
+#student_part{
+
+    padding: 20px 0px;
+}
+.left_content h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.left_content a{
+    text-decoration: none;
+    background: #FF0000;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    display: inline-block;
+}
+/*************************************** student part design end hear*********************************/
+
+/*************************************** signup part design start from hear*********************************/
+
+#signup_part{
+    
+    padding: 30px 0px;
+}
+   
+.right_content h1{
+    border-left: 5px solid #FF0000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.right_content .spn{
+    color: #FF0000;
+}
+.right_content p{
+    font-size: 18px;
+}
+.right_content a{
+    text-decoration: none;
+    background: #FF0000;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    display: inline-block;
+}
+/*************************************** signup part design end hear*********************************/
+
+/*************************************** footer design start hear*********************************/
+#footer{
+    background: black;
+    padding: 30px 0px ;
+}
+.footer_content h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+
+}
+.footer_content .spn{
+    color: #FF0000;
+}
+.footer_content p{
+    color: white;
+    text-align: center;
+}
+
+/*************************************** footer design end hear*********************************/
